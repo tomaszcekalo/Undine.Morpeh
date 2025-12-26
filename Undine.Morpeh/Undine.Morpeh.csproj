@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Scellecs.Morpeh" Version="2023.1.0" />
+    <PackageReference Include="Scellecs.Morpeh" Version="2024.1.1" />
     <PackageReference Include="Undine.Core" Version="0.0.0.9" />
   </ItemGroup>
 
